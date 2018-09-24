@@ -35,3 +35,8 @@ Note: It is recommended to remove these files if you are not going to use these 
 Examples coming shortly:
 - redis with lettuce
 - redshift via JDBI
+- modelmapper custom mappings
+- api gateway
+- wiki guide to fargate & application load balancers
+- new relic setup
+- papertrail setup
